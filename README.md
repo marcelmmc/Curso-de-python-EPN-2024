@@ -3,7 +3,7 @@ Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las 
 
 # Servidor de Discord
 
-Para preguntas asincrónicas, porfavor unirse usando el siguiente enlance: 
+Para preguntas asíncronas, por favor únanse usando el siguiente enlace:
 
 [![Discord Server](https://dcbadge.vercel.app/api/server/9HBzm9PH)](https://discord.gg/9HBzm9PH)
 
