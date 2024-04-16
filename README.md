@@ -8,7 +8,13 @@ Para preguntas asíncronas, por favor únanse usando el siguiente enlace:
 [![Discord Server](https://dcbadge.vercel.app/api/server/9HBzm9PH)](https://discord.gg/9HBzm9PH)
 
 
-# Grupos
+# Deberes
+
+Por favor, utilice los siguientes enlaces para adjuntar sus tareas:
+
+[Deber 1](./Deberes/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python%20-%20Deber%201.pdf): [link](https://forms.gle/fd7Nfi4dtpPB1jaf6)
+
+# Grupos (En progreso)
 
 # Grabaciones
 [link](https://drive.google.com/drive/folders/11EqPNrVRLXJNlHihhS85bMGLp2WDh72D?usp=sharing)
