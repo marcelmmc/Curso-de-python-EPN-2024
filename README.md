@@ -14,6 +14,8 @@ Por favor, utilice los siguientes enlaces para adjuntar sus tareas:
 
 [Deber 1](./Deberes/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python%20-%20Deber%201.pdf): [link](https://forms.gle/fd7Nfi4dtpPB1jaf6)
 
+[Deber 2](./Deberes/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python%20-%20Deber%202.pdf): [link](https://forms.gle/gDoYNuuC92cXVs1j7)
+
 # Grupos (En progreso)
 
 # Grabaciones
