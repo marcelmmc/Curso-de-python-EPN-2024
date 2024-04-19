@@ -1,0 +1,6 @@
+0, Moran, Marcel, marcel.moran@gmail.com, 8.2, 6.5, 4.3, 4.1
+1, Toro, David, david.toro@gmail.com, 7.4, 9.5, 8.3, 8.7
+3, Perez, Raul, raul.perez@gmail.com, 6.2, 7.3, 8.4, 8.3
+4, Munoz, Maria, maria.munoz@gmail.com, 5.1, 3.2, 7.9, 6.5
+5, Iglesias, Marco, marco.iglesias@gmail.com, 7.0, 8.9, 5.2, 9.6
+6, Gonzalez, Daniela, daniela.gonzalez@gmail.com, 9.5, 9.1, 8.5, 7.6
