@@ -1,6 +1,16 @@
 # Curso-de-python
 Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las soluciones a los ejercicios de programación
 
+## Esquema
+- [Servidor de Discord](#servidor-de-discord)
+- [Deberes](#deberes)
+- [Grupos (En progreso)](#grupos-en-progreso)
+- [Grabaciones](#grabaciones)
+- [Examen](#examen)
+  - [Teoría](#teoría-16-puntos)
+  - [Práctica](#práctica-34-puntos)
+- [Proyecto](#proyecto)
+
 # Servidor de Discord
 
 Para preguntas asíncronas, por favor únanse usando el siguiente enlace:
@@ -22,7 +32,7 @@ Por favor, utilice los siguientes enlaces para adjuntar sus tareas:
 [link](https://drive.google.com/drive/folders/11EqPNrVRLXJNlHihhS85bMGLp2WDh72D?usp=sharing)
 # Examen
 
-- Fecha: Al final de segunda semana
+- Fecha: Viernes 26.04.2024
 - Hora: 14:00 - 15:00 pm
 - Temas: Lectura y Talleres 
 - Formato de examen: Teoría y Práctica
