@@ -15,7 +15,7 @@ Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las 
 
 Para preguntas asíncronas, por favor únanse usando el siguiente enlace:
 
-[![Discord Server](https://dcbadge.vercel.app/api/server/9HBzm9PH)](https://discord.gg/9HBzm9PH)
+[![Discord Server](https://dcbadge.vercel.app/api/server/4QHCwZsk)](https://discord.gg/4QHCwZsk)
 
 
 # Deberes
@@ -33,7 +33,7 @@ Por favor, utilice los siguientes enlaces para adjuntar sus tareas:
 # Examen
 
 - Fecha: Viernes 26.04.2024
-- Hora: 14:00 - 15:00 pm
+- Hora: 14:00 - 16:00 pm
 - Temas: Lectura y Talleres 
 - Formato de examen: Teoría y Práctica
 - Peso del examen: 25%
